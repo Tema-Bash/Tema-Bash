@@ -25,7 +25,7 @@
 
  <h3> 𝙨𝙩𝙖𝙩𝙞𝙨𝙩𝙞𝙘𝙨 </h3>
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tema-Bash&show_icons=true&count_private=true&theme=react)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tema-Bash&show_icons=true&count_private=true&theme=react&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tema-Bash&layout=compact&theme=react)
 
  
