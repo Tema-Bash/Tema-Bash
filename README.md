@@ -1,6 +1,14 @@
 <h1 align="center"><i>Hi, I`m Artyom</i>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am studying at the <a href="https://practicum.yandex.ru/profile/web-plus/">Yandex Practicum</a> on the front-end developer, and I am graduating 🎓 <a href="https://eng.miet.ru/">MIET</a> from the Faculty of Software Engineering</h3>
+<p4>How to reach me: <p4>
+
+<ul>
+  <li><a href="mailto:Arteym-Bash@yandex.com?subject=Github mess"">Send an email</a></li>
+  <li><a href="https://t.me/scrapsils">Telegram</a></li>
+  <li><a href="https://vk.com/id86517284">VK</a></li>
+  
+</ul>
 <h3> 𝙨𝙠𝙞𝙡𝙡𝙨 </h3>
 
   
