@@ -4,7 +4,7 @@
 <p4>How to reach me: <p4>
 
 <ul>
-  <li><a href="mailto:Arteym-Bash@yandex.com?subject=Github mess"">Send an email</a></li>
+  <li><a href="mailto:artem-bashakin@ya.ru?subject=Github mess"">Send an email</a></li>
   <li><a href="https://t.me/scrapsils">Telegram</a></li>
   <li><a href="https://vk.com/id86517284">VK</a></li>
   
