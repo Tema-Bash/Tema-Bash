@@ -1,6 +1,6 @@
 <h1 align="center"><i>Hi, I`m Artyom</i>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am studying at the <a href="https://practicum.yandex.ru/profile/web-plus/">Yandex Practicum</a> on the front-end developer, and I am graduating 🎓 <a href="https://eng.miet.ru/">MIET</a> from the faculty of Software Engineering</h3>
+<h3 align="center">Finished <a href="https://practicum.yandex.ru/profile/web-plus/">Yandex Practicum</a> on the front-end developer, and I am graduating 🎓 <a href="https://eng.miet.ru/">MIET</a> from the faculty of Software Engineering</h3>
 <p4>How to reach me: <p4>
 
 <ul>
